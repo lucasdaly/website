@@ -1,3 +1,10 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .flex_container {
 
     display: flex;
@@ -5,7 +12,7 @@
 
     background: darkgray;
 
-    width: 100vw;
+    width: 170px;
     height: 100vh;
 
 
